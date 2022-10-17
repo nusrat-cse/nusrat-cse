@@ -1,17 +1,17 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi there!👋 </h1>
 <h1 align="center"> I'm Nusrat Jannat </h1>
-<h3 align="center">A Passionate Future Web designer and Android app developer from BD</h3>
+<h3 align="center">A Passionate Future Android app developer and Web designer from BD</h3>
 <img align="right" alt="Coding" width="400" src=https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-cse&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-cse" /> </p>
 
-- 🔭 I’m currently working on **Android App Developement and Graphic Design**
+- 🔭 I’m currently working on **Web designing and Android App Developement.**
 
-- 🌱 I’m currently learning **Java,PHP,Web Developement And Android app developement.**
+- 🌱 I’m currently learning **Html,CSS,Java,JS,React,Web Developement And Android app developement.**
 
-- 👯 I’m looking to collaborate on **Android App Developement**
+- 👯 I’m looking to collaborate on **Web development and Android App Developement**
 
-- 🤝 I’m looking for help with **Android App Developement**
+- 🤝 I’m looking for help with **Web Developement**
 
 - 📫 How to reach me **nusratjannat25.1998@gmail.com**
 
