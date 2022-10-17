@@ -1,7 +1,7 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi there!👋 </h1>
 <h1 align="center"> I'm Nusrat Jannat </h1>
-<h3 align="center">A Passionate Future Android app developer and Graphic designer from BD</h3>
+<h3 align="center">A Passionate Future Web designer and Android app developer from BD</h3>
 <img align="right" alt="Coding" width="400" src=https://c.tenor.com/AlUkiGkR2j8AAAAM/new-game-ahagon-umiko-programming.gif>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nusrat-cse&label=Profile%20views&color=0e75b6&style=flat" alt="nusrat-cse" /> </p>
 
